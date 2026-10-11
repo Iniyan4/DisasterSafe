@@ -138,7 +138,7 @@ Actual files may vary depending on the modules already copied into your reposito
 ### Step 1 — Clone the project
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone [<YOUR_REPOSITORY_URL>](https://github.com/Iniyan4/DisasterSafe.git)
 cd <YOUR_PROJECT_DIRECTORY>
 ```
 
